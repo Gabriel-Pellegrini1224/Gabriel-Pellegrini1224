@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil ✋😁
-Meu Gabriel Pellegrini 
+Meu nome é Gabriel Pellegrini 
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
